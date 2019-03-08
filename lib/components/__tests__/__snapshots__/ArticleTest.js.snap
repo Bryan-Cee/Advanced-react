@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "margin": "2rem auto",
+      "width": "50%",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "borderBottom": "solid 2px gainsboro",
+        "marginBottom": "1em",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontSize": "x-large",
+          "fontWeight": 600,
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "fontSize": "small",
+        }
+      }
+    >
+      Invalid Date
+    </div>
+    <div>
+      <a>
+         
+      </a>
+    </div>
+    <div
+      style={
+        Object {
+          "margin": "1em",
+        }
+      }
+    />
+  </div>
+  <div
+    style={
+      Object {
+        "borderBottom": "solid 2px gainsboro",
+        "marginBottom": "1em",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontSize": "x-large",
+          "fontWeight": 600,
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "fontSize": "small",
+        }
+      }
+    >
+      Invalid Date
+    </div>
+    <div>
+      <a>
+         
+      </a>
+    </div>
+    <div
+      style={
+        Object {
+          "margin": "1em",
+        }
+      }
+    />
+  </div>
+</div>
+`;
